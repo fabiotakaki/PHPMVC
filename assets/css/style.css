@@ -1,0 +1,23 @@
+header{
+	padding:50px;
+	height:585px;
+	background:url(http://www.creasp.org.br/uploads/fotonoticia/2012/05/3dc35-foto-cartografo2012b.jpg) no-repeat;
+	background-size: cover;
+}
+
+header h2, h3{
+	color:#fff;
+	text-shadow:2px 2px #333;
+}
+
+footer{
+	padding:20px 0;
+}
+
+#conteudo{
+	padding:20px 0 0 0;
+}
+
+#string{
+	color:red;
+}

@@ -10,6 +10,7 @@ require('lib/request.php');
 require('lib/model.php');
 require('lib/controller.php');
 require('lib/view.php');
+require('lib/db.php');
 
 
 $app = new Bootstrap();

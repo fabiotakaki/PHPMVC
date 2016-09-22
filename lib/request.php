@@ -5,7 +5,7 @@
 */
 class Request
 {
-	private $base_url = 'http://localhost/POO/NEW/';
+	private $base_url = 'http://localhost:8080/';
 	function __construct()
 	{
 
